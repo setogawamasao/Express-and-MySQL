@@ -1,7 +1,7 @@
 # セットアップ
-npm install express
-npm install nodemon
-npm install mysql
+npm install express  
+npm install nodemon  
+npm install mysql  
 
 # 起動
 node app.js
